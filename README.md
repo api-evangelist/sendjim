@@ -64,5 +64,24 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-SendJim is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://sendjim.com/
+SendJim provides a direct mail marketing platform that helps home service businesses automate their outreach. It offers features like campaign playbooks, predictive targeting, and integrations with popular tools such as Jobber, ServiceMinder, and Housecall Pro. Users can schedule webinars, access case studies, and explore pricing options, all aimed at simplifying marketing and increasing revenue for service‑based companies.
+
+**Areas:** Marketing · DirectMail · HomeServices · Automation · SaaS
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://sendjim.com/)
+- [Pricing](https://members.sendjim.com/pricing)
+- [Support](https://support.sendjim.com/sendjim-support)
+- [Blog](https://sendjim.com/growth-hub/)
+- [Terms of service](https://sendjim.com/terms-and-conditions/)
+- [Privacy policy](https://sendjim.com/privacy-policy/)
+- [GitHub](https://github.com/SendJim)
+
+**APIs profiled:** 1
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/sendjim/](https://apis.io/providers/sendjim/).
